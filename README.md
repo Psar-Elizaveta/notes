@@ -28,7 +28,9 @@ container{
     margin-rigth: auto
 }
 
-vertical-align: ...(no with block elements) --> зцентрувати якийсь елемент і рядок, тільки inline-block i inline!
+vertical-align: ...(no with block elements) --> зцентрувати якийсь елемент і рядок, тільки inline-block i inline! кнопка(текст і квадрат)
+text-aligth: center( текст по середині у кнопці)
+border y buttons (ставимо у спільний клас якиою товщиною і transparent-> прозорий, і потім якщо нада кольорову ставимо в інший клас іншої кнопки колір)
 
 | :root{ var(--) | --....; | }
 
@@ -46,4 +48,6 @@ css->styles.css
 
 
 section id=about link=#about
+
+
 
